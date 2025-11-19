@@ -56,6 +56,7 @@ Geospatial web app for searching locations worldwide with interactive map visual
 - Interactive maps with Leaflet.js
 - Coordinate extraction and clipboard functionality
 - Real-time location data display
+- Distance between coordinates
 - **Tech:** JavaScript, Leaflet.js, OpenCage API, HTML/CSS
 
 ### 🎬 [Movie Search Application](https://github.com/HarDexTech/movieSearch)
